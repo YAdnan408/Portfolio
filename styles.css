@@ -241,8 +241,8 @@ profile-photo .img{
   display: flex;
   gap: 60px;  /* Gap between columns */
   border-radius: 5px;
-  height: 400px;
-  margin-bottom: 250px;
+  /* height: 400px; */
+  margin-bottom: 120px;
 }
 
 /* Increase gap for the Research & Skills section */
